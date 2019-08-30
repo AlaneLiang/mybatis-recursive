@@ -190,5 +190,3 @@ resultMap 定义:
 
 通过 `selectTree` 这个 `SELECT` 语句来获取当前菜单中的 `children` 属性结果, 在查询子菜单的 SELECT 语句中, 需要传递一个 `parent_id` 参数, 这个参数的值就是当前菜单中的 id.
 
-
-本章实例代码: https://github.com/zhaojun1998/mybatis-recursive-demo
